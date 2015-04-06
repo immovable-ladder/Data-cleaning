@@ -1,0 +1,13 @@
+oldattname,newattname,oldfile,description,type,grouping,newfile
+Village_Sun_colline,Household_ID,HH_compostion_characteristic_b,Unique HHID,,,Part B: Household Composition and Characteristics
+HH_compositnID,HH_member_ID,HH_compostion_characteristic_b,Household member ID,,,Part B: Household Composition and Characteristics
+HH_member,HH_Member_name,HH_compostion_characteristic_b,Household member name,,,Part B: Household Composition and Characteristics
+sex,B1_sex,HH_compostion_characteristic_b,B1. Sex (See codes),,,Part B: Household Composition and Characteristics
+HH_age,B2_age,HH_compostion_characteristic_b,B2. Age,,,Part B: Household Composition and Characteristics
+Relation_HHhead,B3_relation,HH_compostion_characteristic_b,B3. Relation to HH head (See codes),,,Part B: Household Composition and Characteristics
+HH_education_years,B4_education,HH_compostion_characteristic_b,B4. Education (years),,,Part B: Household Composition and Characteristics
+Years_farming_experience,B5_farming_experience,HH_compostion_characteristic_b,B5. Farming experience (years) (If the member is above 10 years old),,,Part B: Household Composition and Characteristics
+Off_farm_main__seasonB,B6_offfarm_main,HH_compostion_characteristic_b,B6. Off-farm work during Season B,,,Part B: Household Composition and Characteristics
+Off_farm_dry_short_seasonA,B7_offfarm_dry,HH_compostion_characteristic_b,B7. Off-farm work during Season A,,,Part B: Household Composition and Characteristics
+No_mth_12mths,B8_last12_mths,HH_compostion_characteristic_b,B8. Number of month lived in household in last 12 months,,,Part B: Household Composition and Characteristics
+Own_farm_labour_perc,B9_ownfarm_labor,HH_compostion_characteristic_b,"B9. Own farm labour contribution (in terms of % e.g. 10%, 25%, 40%)",,,Part B: Household Composition and Characteristics

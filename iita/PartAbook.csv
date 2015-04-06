@@ -1,0 +1,25 @@
+oldattname,newattname,oldfile,description,type,grouping,newfile
+Country,Country,HH_compostion_characteristic,Country,,,Part A: Respondent's Identification/Background
+District_Cefferie_Commune,District,HH_compostion_characteristic,Territory/Commune/District,,,Part A: Respondent's Identification/Background
+Sector_Groupment_Zone,Sector,HH_compostion_characteristic,Sector/Zone ID,,,Part A: Respondent's Identification/Background
+,,,,,,
+Respondent,Respondent,HH_compostion_characteristic,Respondent name,,,Part A: Respondent's Identification/Background
+Househead,HHeadYN,HH_compostion_characteristic,Is respondent the household head,,,Part A: Respondent's Identification/Background
+HH_head,HH_Head,HH_compostion_characteristic,Name of household head,,,Part A: Respondent's Identification/Background
+Relation_HH,Relation_HH,HH_compostion_characteristic,Relationship of respondent to HH Head,,,Part A: Respondent's Identification/Background
+Mobile,Mobile,HH_compostion_characteristic,Mobile Phone No.,,,Part A: Respondent's Identification/Background
+Latitude,Latitude,HH_compostion_characteristic,Latitude of HH,,,Part A: Respondent's Identification/Background
+longtitude,Longtitude,HH_compostion_characteristic,Longitude of HH,,,Part A: Respondent's Identification/Background
+Altitude,Altitude,HH_compostion_characteristic,Altitude of HH,,,Part A: Respondent's Identification/Background
+start_time,start_time,HH_compostion_characteristic,Start time of interview,,,Part A: Respondent's Identification/Background
+Interviewer_name,Interviewer_name,HH_compostion_characteristic,Interviewer name,,,Part A: Respondent's Identification/Background
+Supervisor_name,Supervisor_name,HH_compostion_characteristic,Supervisor name,,,Part A: Respondent's Identification/Background
+native_village,A1_native,HH_compostion_characteristic,A1. Are you a native of this village?,,,Part A: Respondent's Identification/Background
+Years_village,A3_Years_village,HH_compostion_characteristic,"A3. If No to Question 1, How many year have spent in this village?",,,Part A: Respondent's Identification/Background
+HH_started,A4_year_started,HH_compostion_characteristic,A4. When was the household started? (year),,,Part A: Respondent's Identification/Background
+Yr_hhd_strt_farmn,A5_Yr_farmn,HH_compostion_characteristic,A5. In which year did the household start farming?,,,Part A: Respondent's Identification/Background
+HH_type,A6_HH_type,HH_compostion_characteristic,A6. Type of household,,,Part A: Respondent's Identification/Background
+farmer_group_association,A7_farmer_group,HH_compostion_characteristic,A7. Are you a member of a farmer group or association? ,,,Part A: Respondent's Identification/Background
+No_Association,A8_No_Association,HH_compostion_characteristic,A8. In how many group/association are you a member?,,,Part A: Respondent's Identification/Background
+how_long_member,A9_how_long_member,HH_compostion_characteristic,A9. For how long have you been a member? (years),,,Part A: Respondent's Identification/Background
+participate_agric_NRM,A10_participate,HH_compostion_characteristic,A10. Have you participated in any agricultural or NRM related collective action during the last 12 months?,,,Part A: Respondent's Identification/Background

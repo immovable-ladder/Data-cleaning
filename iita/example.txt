@@ -1,0 +1,3 @@
+Household_ID Respondent HH_Head Relation_HH Mobile Latitude Longitude Altitude start_time_original start_time Interviewer_name
+2531 Nsimire M'Mushagalusa Danane Birego     Spouse 0.00000e+00 -2.6 28.75 132201 28/10/2014 41940 Arsene
+2531 bahizire muhendwa     bahizire muhendwa Head   2.43993e+11 -2.6 28.75 103145 28/10/2014 41940 Thithy
